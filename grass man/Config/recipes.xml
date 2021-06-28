@@ -1,0 +1,22 @@
+<configs>
+<append xpath="/recipes">
+
+<!-- New Recipe only on workbench-->
+<recipe name="apparelGhillieSuitPants" count="1"> 
+<ingredient name="resourceYuccaFibers" count="50"/>
+
+</recipe>
+
+<recipe name="apparelGhillieSuitHood" count="1"> 
+<ingredient name="resourceYuccaFibers" count="50"/>
+
+</recipe>
+
+<recipe name="apparelGhillieSuitJacket" count="1"> 
+<ingredient name="resourceYuccaFibers" count="50"/>
+
+</recipe>
+
+</append>
+
+</configs>
