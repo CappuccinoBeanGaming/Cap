@@ -1,0 +1,24 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+{my_key},{xml_file},{type_of_object},{true/false/null},{true/false/null},"{Localized_Name_Eng}"
+
+resourceSteelPipeGG,Items,Resource,,,"Steel Pipe" 
+
+resourceSteelPipeGGDesc,Items,Resource,,,"A Steel Pipe for Gamers Only." 
+
+GronksSpearGG,Items,Ammo/Weapon,,,"Gronk's Spear" 
+
+GronksSpearGGDesc,Items,Ammo/Weapon,,,"Orzakh ishmunuk Iòrasâng'âk irâshulug mècazgung, ushkmû ô nyâl âkè thashâknu." 
+
+GronkiumGG,Items,Resource,,,"Gronkium"
+
+GronkiumGGDesc,Items,Resource,,,"A Material made of the flesh of Gronks dad Gronk"
+
+DrinkGronkJuiceGG,Items,Resource,,,"Gronk Juice"
+
+DrinkGronkJuiceGGDesc,Items,Resource,,,"Even Gronk Gets thirsty (may contain lead)"
+
+RefienedGronkiumGG,Items,Resource,,,"RefienedGronkium"
+
+RefienedGronkiumGGDesc,Items,Resource,,,"This item does nothing at all"
+
+RefienedGronkiumGGSchematic,Items,Schematic,,,"Refined Gronkium Schematic"

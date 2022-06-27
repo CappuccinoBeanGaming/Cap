@@ -1,0 +1,52 @@
+<configs>
+<append xpath="/recipes">
+
+<!-- New Recipe only on workbench-->
+<recipe name="apparelGhillieSuitPants" count="1" craft_time="10"> 
+<ingredient name="resourceYuccaFibers" count="50"/>
+
+</recipe>
+
+<recipe name="apparelGhillieSuitHood" count="1" craft_time="10"> 
+<ingredient name="resourceYuccaFibers" count="50"/>
+
+</recipe>
+
+<recipe name="treeTallGrassDiagonal" count="1"> 
+<ingredient name="resourceYuccaFibers" count="5"/>
+
+</recipe>
+
+<recipe name="apparelGhillieSuitJacket" count="1" craft_time="10"> 
+<ingredient name="resourceYuccaFibers" count="50"/>
+
+</recipe>
+
+
+
+<recipe name="GronksSpearGG" count="1" craft_time="5"> 
+<ingredient name="GronkiumGG" count="5"/>
+</recipe>
+
+<recipe name="GronkiumGG" count="1" craft_time="1"> 
+<ingredient name="resourceYuccaFibers" count="20"/>
+<ingredient name="resourceRockSmall" count="5"/>
+<ingredient name="resourceBone" count="7"/>
+
+</recipe>
+
+<recipe name="RefienedGronkiumGG" count="1" craft_time="10" tags="learnable"> 
+<ingredient name="resourceYuccaFibers" count="20"/>
+<ingredient name="resourceRockSmall" count="5"/>
+<ingredient name="resourceBone" count="7"/>
+
+</recipe>
+
+<recipe name="drinkGronkJuiceGG" count="1" craft_time="5"> 
+<ingredient name="GronkiumGG" count="2"/>
+<ingredient name="drinkJarEmpty" count="1"/>
+</recipe>
+
+</append>
+
+</configs>
